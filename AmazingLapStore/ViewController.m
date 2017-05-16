@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "SignInViewController.h"
+#import "SignUpViewController.h"
 
 @interface ViewController ()
 
@@ -17,6 +19,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+}
+- (IBAction)SignUpBtn:(id)sender {
+    UIViewController *signVC = [self.storyboard instantiateViewControllerWithIdentifier:@"SignUpViewController"];
+    [self presentViewController:signVC animated:YES completion:nil];
+}
+- (IBAction)SignInBtn:(id)sender {
+    UIViewController *signVC = [self.storyboard instantiateViewControllerWithIdentifier:@"SignInViewController"];
+    [self presentViewController:signVC animated:YES completion:nil];
 }
 
 

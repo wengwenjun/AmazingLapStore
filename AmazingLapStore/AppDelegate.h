@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <PayPalMobile.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

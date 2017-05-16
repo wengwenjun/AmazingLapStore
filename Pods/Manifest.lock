@@ -1,0 +1,34 @@
+PODS:
+  - CardIO (5.4.1)
+  - DZNEmptyDataSet (1.7.3)
+  - LLSlideMenu (1.0.6)
+  - MACTableView (1.1.0):
+    - DZNEmptyDataSet (~> 1.7.2)
+    - MJRefresh (~> 3.1.0)
+  - MJRefresh (3.1.12)
+  - PayPal-iOS-SDK (2.17.0):
+    - PayPal-iOS-SDK/CardIO (= 2.17.0)
+    - PayPal-iOS-SDK/Core (= 2.17.0)
+  - PayPal-iOS-SDK/CardIO (2.17.0):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.17.0)
+  - SVProgressHUD (1.1.3)
+
+DEPENDENCIES:
+  - LLSlideMenu (~> 1.0.6)
+  - MACTableView (~> 1.1.0)
+  - PayPal-iOS-SDK
+  - SVProgressHUD (~> 1.1z)
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  DZNEmptyDataSet: dd7cca17c1d07dfa78956859b1e70a52505678ef
+  LLSlideMenu: c36309289c462544e58dc83b675b1a38be735a99
+  MACTableView: 3f378d6eb8d13f3abc30c4e4a804660ef8523e19
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  PayPal-iOS-SDK: 849321f6214a7187ee4cc684f63fe509df4c4a36
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+
+PODFILE CHECKSUM: 979313ba46c28a6cb258b258f6d182907e32c6a4
+
+COCOAPODS: 1.2.1
