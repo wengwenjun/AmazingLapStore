@@ -387,6 +387,7 @@
 				TargetAttributes = {
 					158D91E11EC227FC0025D876 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = PXNK7JUZ34;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -626,6 +627,7 @@
 			baseConfigurationReference = 09CB9BBA842A45A0B89784DE /* Pods-AmazingLapStore.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PXNK7JUZ34;
 				INFOPLIST_FILE = AmazingLapStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rjt.compquest.AmazingLapStore;
@@ -638,6 +640,7 @@
 			baseConfigurationReference = 4343D73D234F38A21989EE09 /* Pods-AmazingLapStore.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PXNK7JUZ34;
 				INFOPLIST_FILE = AmazingLapStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rjt.compquest.AmazingLapStore;

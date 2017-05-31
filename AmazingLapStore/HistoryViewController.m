@@ -23,10 +23,13 @@
     self.title = @"Order History";
     self.orderArray = [[NSMutableArray alloc]init];
     self.tblView.tableFooterView = [[UIView alloc] initWithFrame:CGRectZero];
-    // Do any additional setup after loading the view.
     [self findAllOrder];
+    // Do any additional setup after loading the view.
+    
 }
--(void)viewWillAppear:(BOOL)animated {
+-(void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:YES];
+    [self findAllOrder];
     [self.tblView reloadData];
 }
 -(void) findAllOrder {
