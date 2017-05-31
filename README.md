@@ -9,15 +9,15 @@ TableViewController
 CollectionViewController
 Paypal SDK
 
-First Screen
+# First Screen
  <img src="https://github.com/wengwenjun/AmazingLapStore/blob/master/First%20Screen.png" width="300" height = "450">
-Home Page
+# Home Page
  <img src="https://github.com/wengwenjun/AmazingLapStore/blob/master/Home%20Page.png" width="300" height = "450">
-Shopping Cart
+# Shopping Cart
  <img src="https://github.com/wengwenjun/AmazingLapStore/blob/master/ShoppingCart.png" width="300" height = "450">
-Paypal
+# Paypal
  <img src="https://github.com/wengwenjun/AmazingLapStore/blob/master/Paypal.png" width="300" height = "450">
-Order History
+# Order History
  <img src="https://github.com/wengwenjun/AmazingLapStore/blob/master/Order.png" width="300" height = "450">
 
 
